@@ -3,6 +3,7 @@
 # CanvasSlider
 > Control your circuit from a virtual slider.
 
+<a target='_blank' rel='nofollow' href="https://s3-us-west-2.amazonaws.com/cherpa01-static/media/images/docs/slider.png">  <img alt='Slider' src='https://s3-us-west-2.amazonaws.com/cherpa01-static/media/images/docs/slider.png' class="center" /></a>
 
 ## Methods Available
 

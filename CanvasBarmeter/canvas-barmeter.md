@@ -3,6 +3,9 @@
 # CanvasBarmeter
 > Use a barmeter to visualize a pin or a value.
 
+<a target='_blank' rel='nofollow' href="https://s3-us-west-2.amazonaws.com/cherpa01-static/media/images/docs/barmeter.png">  <img alt='Barmeter' src='https://s3-us-west-2.amazonaws.com/cherpa01-static/media/images/docs/barmeter.png' class="center" /></a>
+
+
 ## Methods Available
 
 - [myBarmeter.init()](CanvasBarmeter/canvas-barmeter.md?id=cb-i-di)

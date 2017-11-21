@@ -3,6 +3,7 @@
 # CanvasButton
 > Control your circuit from a virtual button.
 
+<a target='_blank' rel='nofollow' href="https://s3-us-west-2.amazonaws.com/cherpa01-static/media/images/docs/button.png">  <img alt='Button' src='https://s3-us-west-2.amazonaws.com/cherpa01-static/media/images/docs/button.png' class="center" /></a>
 
 ## Methods Available
 

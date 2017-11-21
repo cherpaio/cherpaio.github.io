@@ -3,6 +3,10 @@
 # CanvasGauge
 > Use a gauge to visualize a pin or a value.
 
+
+<a target='_blank' rel='nofollow' href="https://s3-us-west-2.amazonaws.com/cherpa01-static/media/images/docs/gauge.png">  <img alt='Gauge' src='https://s3-us-west-2.amazonaws.com/cherpa01-static/media/images/docs/gauge.png' class="center" /></a>
+
+
 ## Methods Available
 
 - [myGauge.init()](CanvasGauge/canvas-gauge.md?id=cg-i-di)
