@@ -53,7 +53,7 @@ Use <code>mySlider.init();</code> as follows:
 Use <code>mySlider.init(int min,int max, String title)</code> as follows:
 	```
 	void setup(){  
-		mySlider.init(0,100,” Temperature meter”); 
+		mySlider.init(0,100,"Temperature meter"); 
 	} 
 	```
 
@@ -80,12 +80,14 @@ Use the <code>mySlider.getValue();</code> method as follows:
 	CanvasSlider mySlider; 
 	int const LED_PIN = 9; 
 	void setup(){ 
-		mySlider.init(0,1023,” LED Brightness”); 
+		mySlider.init(0,1023,"LED Brightness"); 
 		pinMode(LED_PIN,OUTPUT); 
 	} 
 	void loop(){ 
 		int sliderValue = mySlider.getValue(); 
-		analogWrite(LED_PIN, sliderValue); 
+		analogWrite(LED_PIN, sliderValue);
+
+		delay(500);
 	} 
 
 

@@ -98,11 +98,13 @@ Use the **<code>visualize(int value)</code>** method as follows:
 	 
 	void setup(){ 
 	 
-		myBarmeter.init(0,1023,” Temperature meter”);  
+		myBarmeter.init(0,1023,"Temperature meter");  
 	} 
 	 
 	void loop(){ 
 	 
 		myBarmeter.visualizePin(A0); 
+
+		delay(500);
 	} 
 

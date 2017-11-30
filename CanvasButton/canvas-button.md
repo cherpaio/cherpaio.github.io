@@ -95,7 +95,9 @@ Use the **<code>myButton.isOn()</code>** or **<code>myButton.isOff()</code>**  m
 		if(myButton.isOn())
 			digitalWrite(LED_PIN, HIGH); 
 		else
-			digitalWrite(LED_PIN, LOW); 
+			digitalWrite(LED_PIN, LOW);
+
+		delay(500);
 	} 
 
 

@@ -100,11 +100,13 @@ Use the **<code>visualize(int value)</code>** method as follows:
 	 
 	void setup(){ 
 	 
-		myGauge.init(0,1023,”Pot value);  
+		myGauge.init(0,1023,"Pot value");  
 	}
 	 
 	void loop(){ 
 	 
 		myGauge.visualizePin(A0); 
+
+		delay(500);
 	} 
 
