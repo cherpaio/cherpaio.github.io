@@ -54,7 +54,7 @@ Use **<code>myGauge.init()</code>** as follows:
 Use **<code>myGauge.init(int min,int max, String title)</code>** as follows:
 	```
 	void setup(){  
-		myGauge.init(0,100,”Pot value”); 
+		myGauge.init(0,100,"Pot value"); 
 	} 
 	```
 
